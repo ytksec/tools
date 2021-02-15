@@ -11,6 +11,7 @@
 
 + [Chrome SAML Tracer](https://chrome.google.com/webstore/detail/saml-tracer/mpdajninpobndbfcldcmbpnnbhibjmch)  
 + [Firefox SAML Tracer](https://chrome.google.com/webstore/detail/saml-tracer/mpdajninpobndbfcldcmbpnnbhibjmch)  
++ [SAML DEVELOPER TOOLS](https://www.samltool.com/)
 
 ## OSINT
 
